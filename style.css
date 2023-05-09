@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Montserrat:wght@400;600;700&family=Nunito+Sans&display=swap');
+
+
+
+.ul-class-nav {
+    display: flex;
+    gap: 15px;
+    list-style-type: none;
+    padding-top: 16px;
+}
+
+.number {
+    display: flex;
+    gap: 5px;
+}
+
+.instruct {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -0.007em;
+    color: #311E19;
+    opacity: 0.5;
+}
+
+.nav-phone {
+    border: 2px solid white;
+    background-color: #fff;
+    line-height: 50%;
+    padding-top: 3px;
+    margin-top: 4px;
+}
+
+.nav {
+    width: 1920px;
+    height: 50px;
+    background: #F0EFED;
+    padding-bottom: 70px;
+}
+
+.insta {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px;
+    gap: 6px;
+    width: 40px;
+    height: 40px;
+    background: #FFFFFF;
+    border-radius: 3px;
+}
+
+.search-input {
+    display: flex;
+    flex-direction: row;
+    padding: 14.5px 23px;
+    gap: 10px;
+    width: 256px;
+    height: 48px;
+    background: #F0EFED;
+    border-radius: 3px;
+    border: none;
+}
+
+.imgs {
+    margin-right: 25px;
+}
+
+.search-icon {
+    margin-left: 25px;
+    display: flex;
+}
+
+.nav2 {
+    margin-top: 30px;
+}
+
+.search-icon-bg {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 14px 26px;
+    gap: 10px;
+    width: 72px;
+    height: 48px;
+    background: #EEB256;
+    border-radius: 3px;
+}
+
+.truck {
+    margin-left: 170px;
+    position: absolute;
+    border-radius: 3px;
+    display: flex;
+    gap: 5px;
+}
+
+.text-truck {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #311E19;
+}
+
+.location {
+    margin-left: 170px;
+    background: #FFFFFF;
+    display: flex;
+}
+
+.location-text {
+    padding-left: 5px;
+    width: 178px;
+    height: 51px;
+}
+
+.shopping {
+    margin-left: 170px;
+
+}
+
+.shopping-icon {
+    position: absolute;
+    background: #88543E;
+    border-radius: 3px;
+    padding: 20px 15px;
+}
+
+.shopping-text {
+    margin-left: 41px;
+    position: absolute;
+    background: #90604C;
+    box-shadow: 0px 7px 15px rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+}
+
+.nav-icons {
+    display: flex;
+    gap: 15px;
+    margin-top: 40px;
+}
+
+.nav-icon-1 {
+    display: flex;
+}
+
+.nav-icon-2 {
+    display: flex;
+}
+
+.nav-icon-3 {
+    display: flex;
+}
+
+.nav-icon-4 {
+    display: flex;
+}
+
+.nav-icon-5 {
+    display: flex;
+}
+
+.nav-icon-6 {
+    display: flex;
+}
+
+.nav-icon-7 {
+    display: flex;
+}
+
+.nav-icon-8 {
+    display: flex;
+}
+
+.nav-icon-9 {
+    display: flex;
+}
+
+.nav-icon-10 {
+    display: flex;
+}
+
+.nav-icon-11 {
+    display: flex;
+}
+
+.nav-icon-12 {
+    display: flex;
+}
+
+.section1 {
+    margin-top: 5px;
+    background: url(./img/Rectangle\ 7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 15px ;
+}
+
+.text_s {
+    padding-top: 110px;
+    width: 640px;
+    font-family: 'Merriweather';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 56px;
+    line-height: 150%;
+    color: #EEB256;
+}
+
+.text_s_2 {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 140%;
+    color: #F0EFED;
+}
+
+.btn-1 {
+    margin-top: 40px;
+    margin-bottom: 140px;
+    background: #EEB256;
+    border-radius: 3px;
+    border: none;
+    padding: 16px 56px;
+}
+
+.text-card {
+    background: url(./img/Rectangle\ 20.png);
+    background-repeat: no-repeat;
+    padding: 48px 85px 54px 86px;
+}
+
+.text-card2 {
+    background: url(./img/Rectangle\ 21.png);
+    background-repeat: round;
+    padding: 48px 85px 54px 86px;
+}
+
+.text-card3 {
+    background: url(./img/Rectangle\ 22.png);
+    background-repeat: no-repeat;
+    padding: 48px 85px 54px 86px;
+}
+
+.text-carrd-child {
+    font-family: 'Merriweather';
+    font-weight: 400;
+    text-align: center;
+    color: #F0EFED;
+}
+
+.bttnh{
+    background: none;
+}
+
+.text-poch{
+    margin-top: 100px;
+}
